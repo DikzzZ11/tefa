@@ -1,0 +1,172 @@
+nav{ 
+    background-color: #1B3C53;  
+   
+}
+
+.logo-img img{
+ max-width: 70px;
+  
+
+}
+
+.nav-link{ 
+    font-size: 20px;
+    color: #fff;
+    margin-right: 10px;
+    
+}
+
+.about{
+    padding: 0.5rem;
+    text-align: center;
+}
+
+.about h2{
+font-size: 42px;
+  font-family: "Lexend Exa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+.border-about p{
+  padding: 10px;
+  border-bottom: solid #1B3C53;
+}
+
+
+.swapper{
+    padding: 1rem 7% 1.4rem;
+    margin: 150px auto;
+    width: 70%;
+}
+
+
+
+.swapper img {
+   
+    max-width: 330px;
+    float: left;
+    margin-right: 15px;
+    border-radius: 15px;
+  position: relative;
+}
+
+
+
+.swapper h2{
+  font-family: "Lexend Exa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+.text-box{
+    color: black;
+}
+
+.text-box h2{
+    font-size: 42px;
+    color: #000;
+}
+
+.text-box p{
+    font-size: 17px;
+    color: #000;
+}
+
+.skills {
+  background: #bababa;
+  padding: 20px;
+  border-radius: 10px;
+  max-width: 800px;
+  margin: auto;
+  text-align: left;
+  position: relative;
+  margin-top: 50px;
+}
+
+
+
+.skills h3 {
+  margin-bottom: 15px;
+}
+
+.skills ul {
+  list-style: none;
+}
+
+.skills li {
+  margin-bottom: 10px;
+  position: relative;
+  padding-left: 20px;
+}
+
+.skills li::before {
+  content: "●";
+  position: absolute;
+  left: 0;
+  color: #0d3b4c;
+}
+
+
+.border-p p{
+  padding: 20px;
+  border-bottom: solid #1B3C53;
+}
+
+.teachers {
+  text-align: center;
+  
+}
+
+.teachers h2 {
+  margin-bottom: 20px;
+  
+
+  font-family: "Lexend Exa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+
+
+.teachers-list {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  flex-wrap: wrap;
+}
+
+.teacher {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.teacher img {
+  width: 80px;
+  margin-bottom: 15px;
+}
+
+
+
+
+footer {
+  background: #456882;
+  color: white;
+  padding: 30px;
+  text-align: center;
+}
+
+.footer h3 {
+  margin-bottom: 10px;
+}
+
+.footer p {
+  margin: 5px 0;
+  font-size: 16px;
+  
+}
+
